@@ -96,7 +96,7 @@ plt.show()
 ```
 
 ## Output:
-![github logo](output11.png)
+![github logo](outpur11.png)
 ![github logo](output22.png)
 ## Result:
 Thus the program to implement the the Logistic Regression Using Gradient Descent is written and verified using python programming.
